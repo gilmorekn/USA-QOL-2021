@@ -1,6 +1,6 @@
 #Kristen Gilmore 
 
-##United States Quality of Life Index, 2021
+## United States Quality of Life Index, 2021
 ###The Metrics
 The EASI Quality of Life Index is calculated from the following data metrics for each state: population density, population demograpic characteristics (sex, race, age), housing units by tenure, median household income, population in poverty, total population, and total households. Each state is given a QOL scoring, with the US average at 100. 
 
